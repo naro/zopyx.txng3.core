@@ -1,0 +1,85 @@
+# czech normalizer
+# language = Czech
+# encoding = utf-8
+
+á a
+Á A
+ã a
+Ã A
+à a
+À A
+â a
+Â A
+ä a
+Ä A
+å a
+Å A
+
+ç c
+Ç C
+č c
+Č C
+
+ď d
+Ď D
+
+é e
+É E
+è e
+È E
+ê e
+Ê E
+ë e
+Ë E
+Ě E
+ě e
+
+í i
+Í I
+Ì I
+ì i
+ï i
+Ï I
+î i
+Î I
+
+Ñ N
+ñ n
+ň n
+Ň N
+
+ó o
+Ó O
+ô o
+Ô O
+ö o
+Ö O
+
+Ř R
+ř R
+
+Š s
+š s
+
+ť t
+Ť T
+
+ú u
+Ú U
+ù u
+Ù U
+ü u
+Ü U
+û u
+Û U
+Ů U
+ů u
+
+ý y
+Ý y
+
+ÿ y
+Ÿ Y
+
+Ž z
+ž z
